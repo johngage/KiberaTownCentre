@@ -5,3 +5,4 @@
 - Adding links to collaborative topics.
 
 Options are to use a Slack channel, or to use a Github Pages website 
+[Link to README](README.md)
